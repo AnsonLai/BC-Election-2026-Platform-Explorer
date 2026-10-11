@@ -4,7 +4,7 @@ This repository contains the standalone BC platform explorer. The complete app i
 
 ## GitHub Pages
 
-The Pages workflow deploys the repository root on pushes to `main`. To enable the first deployment, open **Settings â Pages** and set **Source** to **GitHub Actions**. Later pushes deploy automatically. You can also start a deployment from **Actions â Deploy GitHub Pages â Run workflow**.
+The Pages workflow deploys the repository root on pushes to `main`. To enable the first deployment, open **Settings → Pages** and set **Source** to **GitHub Actions**. Later pushes deploy automatically. You can also start a deployment from **Actions → Deploy GitHub Pages → Run workflow**.
 
 ## License
 
